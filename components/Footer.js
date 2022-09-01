@@ -23,12 +23,12 @@ const Footer = () => {
       </div>
       <div className={style.cardS}>
         <div className={style.cardItem}>
-          45 ADAM STREET,
+          6 AINTREE STREET,
           <br /> SOUTH AFRICA
         </div>
         <div className={style.cardItem}>
           CONTACT@PROGRESSO
-          <br /> +27 81 736 5067
+          <br /> +27817365067
         </div>
       </div>
       <div className={style.cardS}>
