@@ -12,7 +12,7 @@ const Intro = () => {
       <div className={style.card}>
         <h1 className={style.title}>
           <span className={style.brandName}>PROGRESSO</span> CONSTRUCTION
-          COMPANY
+          COMPANY 
         </h1>
         {/* <p className={style.desc}>
          Building better for tomorrow.
