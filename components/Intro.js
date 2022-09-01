@@ -14,9 +14,9 @@ const Intro = () => {
           <span className={style.brandName}>PROGRESSO</span> CONSTRUCTION
           COMPANY
         </h1>
-        <p className={style.desc}>
+        {/* <p className={style.desc}>
          Building better for tomorrow.
-        </p>
+        </p> */}
         <p className={style.desc}>
          FULL WEBSITE COMING SOON
         </p>
