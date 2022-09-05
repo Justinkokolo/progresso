@@ -23,12 +23,12 @@ const Footer = () => {
       </div>
       <div className={style.cardS}>
         <div className={style.cardItem}>
-          6 AINTREE STREET,
-          <br /> SOUTH AFRICA
+          AVENUE KALONGO NUMERO 14A,
+          <br /> NGALIEMA, KINSHASA/RDC
         </div>
         <div className={style.cardItem}>
           CONTACT@PROGRESSO
-          <br /> +27817365067
+          <br /> (243)0831202089
         </div>
       </div>
       <div className={style.cardS}>
